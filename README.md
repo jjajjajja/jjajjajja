@@ -4,4 +4,4 @@
 - 📫 How to reach me jizon0123@protonmail.com
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jizon)](https://solved.ac/jizon)
